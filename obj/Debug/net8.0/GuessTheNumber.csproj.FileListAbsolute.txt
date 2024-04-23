@@ -1,0 +1,14 @@
+F:\Treina-web\c#\003-GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treina-web\c#\003-GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfoInputs.cache
+F:\Treina-web\c#\003-GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfo.cs
+F:\Treina-web\c#\003-GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+F:\Treina-web\c#\003-GuessTheNumber\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.exe
+F:\Treina-web\c#\003-GuessTheNumber\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.deps.json
+F:\Treina-web\c#\003-GuessTheNumber\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.runtimeconfig.json
+F:\Treina-web\c#\003-GuessTheNumber\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.dll
+F:\Treina-web\c#\003-GuessTheNumber\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.pdb
+F:\Treina-web\c#\003-GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.dll
+F:\Treina-web\c#\003-GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\refint\GuessTheNumber.dll
+F:\Treina-web\c#\003-GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.pdb
+F:\Treina-web\c#\003-GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.genruntimeconfig.cache
+F:\Treina-web\c#\003-GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\ref\GuessTheNumber.dll
